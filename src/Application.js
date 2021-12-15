@@ -1,6 +1,6 @@
 import React from 'react';
 
 export function Application(){
-    return <div>hello world</div>;
+    return <div>Ave haz un juego</div>;
 
 }
